@@ -1,0 +1,4 @@
+Django==1.10.5
+djangorestframework==3.5.4
+requests==2.13.0
+wit==4.2.0
